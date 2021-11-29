@@ -1,2 +1,4 @@
-package com.xinghai.annotations;public class aa {
+package com.xinghai.annotations;
+
+public class aa {
 }
